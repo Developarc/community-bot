@@ -1,0 +1,20 @@
+{
+  "name": "community-bot",
+  "version": "1.0.0",
+  "description": "Official Developarc community bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": "https://github.com/Developarc/community-bot",
+  "author": "Developarc",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
